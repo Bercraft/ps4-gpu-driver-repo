@@ -3,4 +3,4 @@
 
 [ps4-gpu-driver-repo]
 SigLevel = Never
-Server = https://bercraft.github.io/$repo/&arch
+Server = https://bercraft.github.io/$repo/$arch
